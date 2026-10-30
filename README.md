@@ -61,7 +61,3 @@ Créer **A** de durée **2**, puis **B** de durée **3** avec **A** comme prére
 ## Sauvegardes
 
 Les fichiers `.ser` conservent les tâches, les durées, les positions, les couleurs et les dépendances. N’ouvrir que des sauvegardes provenant de sources de confiance.
-
-## Contexte et auteurs
-
-Projet universitaire réalisé par **Melissa IKERROUYENE** et **Hocine ABDELAZIZ**.
