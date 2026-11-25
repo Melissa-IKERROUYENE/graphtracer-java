@@ -2,6 +2,10 @@
 
 Application Java Swing permettant de représenter les tâches d’un projet et leurs dépendances sous forme de graphe orienté. Elle calcule les dates au plus tôt et au plus tard, la durée totale du projet et met en évidence les chemins critiques.
 
+## Aperçu
+
+![Aperçu de GraphTracer : planification et chemin critique](docs/apercu.gif)
+
 ## Fonctionnalités
 
 - Création, renommage, déplacement et suppression des tâches.
